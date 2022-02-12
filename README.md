@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David-DC179
-- 👀 I’m interested in software development
+- 👀 I’m interested in software developing
 - 🌱 I’m currently learning flutter and dart
-- 💞️ I’m looking to collaborate on flutter and dart
+- 💞️ I’m looking to collaborate on php laravel, flutter and dart
 - 📫 How to reach me davidchristophersenior@gmail.com
 
 <!---
